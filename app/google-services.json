@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "888691744597",
+    "firebase_url": "https://gz-wallet.firebaseio.com",
+    "project_id": "gz-wallet",
+    "storage_bucket": "gz-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888691744597:android:77f79a486c6b21741459dc",
+        "android_client_info": {
+          "package_name": "com.gz.gzwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888691744597-15otqu0apf2bhc4tm19gui30o054uohp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gz.gzwallet",
+            "certificate_hash": "1eec2688c7e3440d43615333777994e9b9aaebed"
+          }
+        },
+        {
+          "client_id": "888691744597-ml47u0pl2phiafsmbr7lmvpnbe2kvh9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gz.gzwallet",
+            "certificate_hash": "4493f9d2448ab06d3d085c22ff913f50201a9bb5"
+          }
+        },
+        {
+          "client_id": "888691744597-u43b070fbavduri0e2gdtvcd8jc7fpgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kCX1NXJxukDQFsIP5OcccfIn8EbrkPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888691744597-u43b070fbavduri0e2gdtvcd8jc7fpgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
